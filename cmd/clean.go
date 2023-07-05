@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
-	"tfgen/tfgen"
 
+	"github.com/creeder-uturn/tfgen/tfgen"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 )

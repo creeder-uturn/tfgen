@@ -2,8 +2,8 @@ package main
 
 import (
 	"os"
-	"tfgen/cmd"
 
+	"github.com/creeder-uturn/tfgen/cmd"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
