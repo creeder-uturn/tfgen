@@ -1,10 +1,6 @@
 # tfgen - Terraform boilerplate generator
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/refl3ction/tfgen.svg)](https://github.com/refl3ction/tfgen)
-[![GitHub stars](https://img.shields.io/github/stars/refl3ction/tfgen.svg?style=social&label=Star)](https://github.com/refl3ction/tfgen/stargazers/)
-
-Terragrunt alternative to keep your Terraform code consistent and DRY
+Terraform pre-generator to keep your Terraform code consistent and DRY
 
 ## Overview
 
